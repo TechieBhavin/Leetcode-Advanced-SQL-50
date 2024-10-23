@@ -1,6 +1,5 @@
 # Leetcode-SQL-50
 
-# LeetCode-Curated-SQL-70
 Welcome to the LeetCode SQL 50 Questions repository! This collection of SQL questions is carefully curated to help enhance SQL skills and prepare for technical interviews. Whether you are a beginner looking to dive into SQL or an experienced professional aiming to sharpen your problem-solving abilities, this repository has got you covered.
 
 ## Repository Structure
