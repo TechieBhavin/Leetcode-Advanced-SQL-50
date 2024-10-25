@@ -19,6 +19,8 @@ The content of this repository is licensed under the MIT License. Feel free to u
 ## Database
 |  |
 | ------- |
-| [1757-Recyclable-and-low-fat-products](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1757-Recyclable-and-low-fat-products) |
+| [1757-Recyclable and low fat products](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1757-Recyclable-and-low-fat-products) |
 | [584-Find customer referee](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/584-Find-customer-referee) |
+| [595-Big countries](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/595-Big-countries) |
 | [1068-Product sales analysis-i](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1068-product-sales-analysis-i) |
+
