@@ -31,5 +31,7 @@ The content of this repository is licensed under the MIT License. Feel free to u
 | [1068-Product sales analysis-i](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1068-product-sales-analysis-i) |
 | [1581-Customer Who Visited but Did Not Make Any Transactions](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1581-Customer-who-visited-but-did-not-make-any-transactions) |
 | [577-Employee bonus](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/577-Employee-bonus) |
+|     |
+| **Basic Aggregate Functions** |
 
 
