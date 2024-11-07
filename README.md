@@ -33,5 +33,5 @@ The content of this repository is licensed under the MIT License. Feel free to u
 | [577-Employee bonus](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/577-Employee-bonus) |
 |     |
 | **Basic Aggregate Functions** |
-
+| [620-Not boring movies](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/620-Not-boring-movies) |
 
